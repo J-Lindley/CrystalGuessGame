@@ -1,0 +1,58 @@
+.crystalImage {
+    width: 270px;
+    height: 135px;
+  /*  display: inline-block;*/
+    padding: 30px;
+  /*   position: center; */
+    background-color: rgba(28.110.164.0.41);
+    border-radius: 20%;
+    
+    
+    
+}
+.crystal {
+    
+}
+#imageBox {
+    width: 100%;
+    display: flex;
+    /* display: inline-grid; */
+    /* display: inline; */
+    background-color: blue;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+.text {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 18px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: black;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-align: center;
+    }
+
+
+
+#body {
+    background-color:  grey;
+}
+#text {
+  font-family: Tahoma, Geneva, sans-serif;
+  font-size: 18px;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  color: black;
+  font-weight: normal;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  text-align: center;
+  }
